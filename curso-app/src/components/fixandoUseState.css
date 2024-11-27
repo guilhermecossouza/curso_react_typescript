@@ -1,0 +1,20 @@
+.cls-fixando-use-state {
+    display: flex;
+    flex-direction: column;    
+}
+
+.cls-fixando-use-state  input {
+    width: 600px;
+    margin-bottom: 5px;
+    margin-left: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    padding-left: 10px;
+}
+
+.cls-fixando-use-state button {
+    width: 150px;
+    margin-left: 10px;
+    height: 25px;    
+}

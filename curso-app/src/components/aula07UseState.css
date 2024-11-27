@@ -1,0 +1,23 @@
+.cls-use-state {
+    display: flex;
+    flex-direction: column;
+}
+.cls-use-state input{
+    margin-left: 10px;
+    width: 600px;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #000000;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+.cls-use-state button {
+    margin: 0 0 10px 10px;
+    width: 150px;
+    height: 40px;
+}
+
+.cls-use-state p {
+    margin-left: 10px;;
+}
+
